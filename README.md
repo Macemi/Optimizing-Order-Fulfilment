@@ -16,6 +16,7 @@ Streamline Logistics Solutions is a distinguished and long-standing player in th
 
 This project focuses on **optimising order fulfilment** using a **data-driven approach** through the development of an **interactive Excel dashboard** to eliminate mounting order backlogs, improve visibility, reduce costs, and enhance customer satisfaction.
 
+<img width="1657" height="664" alt="Screenshot 2025-11-12 090713" src="https://github.com/user-attachments/assets/24a0982c-56b5-4f76-ac91-80f8f9a5c839" />
 
 ## Business Challenge
 Streamline Logistics Solutions is facing several critical operational challenges:
